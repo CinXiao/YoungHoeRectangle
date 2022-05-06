@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GroundItem.qml</file>
+        <file>javascript/Creat.js</file>
+        <file>UI/MainMenu.qml</file>
+        <file>UI/SelectButtonItem.qml</file>
+        <file>UI/Bag.qml</file>
+        <file>Data.js</file>
+    </qresource>
+</RCC>
